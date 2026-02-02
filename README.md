@@ -8,7 +8,7 @@ I’m **Haseeb Abbas**, a **Python & AI/ML Engineer** with hands-on experience i
 🧠 Specialized in **LLMs, Retrieval-Augmented Generation (RAG), semantic search, and AI-driven automation**.  
 💻 Proficient in **Python, Flask, FastAPI, React.js, Node.js, and cloud-native deployments (AWS, Docker, CI/CD)**.  
 🎙 Experienced in building **speech-to-speech conversational systems** with ASR (Whisper, Deepgram) and TTS (Coqui, OpenAI).  
-📊 Strong background in **recommendation systems, NLP, image processing, and real-time data pipelines**.
+📊 Strong background in **recommendation systems, NLP, image processing, and real-time data pipelines**.  
 🌍 Passionate about creating impactful **AI-first solutions** in **education, healthcare, and automation domains**. 
 
 ---
