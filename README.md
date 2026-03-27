@@ -105,14 +105,11 @@ Building intelligent systems with AI/ML. Specialized in **RAG Pipelines**, **Mul
 
 &nbsp;
 
-<a href="https://github.com/haseebabbas2">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=haseebabbas2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=haseebabbas2&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=6E7681"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=haseebabbas2&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=6E7681"/>
 
 &nbsp;
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=haseebabbas2&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haseebabbas2&theme=github_dark"/>
 
 &nbsp;
 
