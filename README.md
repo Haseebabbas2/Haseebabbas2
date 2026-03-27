@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:0d1117&section=header&text=Haseeb%20Abbas&fontColor=58A6FF&fontSize=50&fontAlignY=35&desc=Python%20%26%20AI/ML%20Engineer%20|%20Full%20Stack%20Developer&descSize=16&descAlignY=55&descAlign=50"/>
+# Haseeb Abbas
+
+**Python & AI/ML Engineer | Full Stack Developer**
 
 <br>
 
@@ -91,7 +93,5 @@ I'm a passionate **AI/ML Engineer** building intelligent systems. Currently focu
 *"First, solve the problem. Then, write the code."*
 
 **Let's connect and build something amazing!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:161b22,100:0d1117&section=footer"/>
 
 </div>
