@@ -1,106 +1,86 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there, I'm Haseeb Abbas
+</h1>
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Haseeb%20Abbas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20|%20AI/ML%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
+<p align="center">
+  <a href="https://linkedin.com/in/haseeb-abbas09"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abbashaseeb149@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=haseebabbas2&color=green&style=flat&label=Profile+Views"/>
+</p>
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Building+Intelligent+AI+Systems;Crafting+Scalable+Solutions;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-abbas09)
-[![Gmail](https://img.shields.io/badge/Gmail-764ba2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbashaseeb149@gmail.com)
-
-<br><br>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=22&duration=4000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Python+%26+AI%2FML+Engineer;Full+Stack+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
+</p>
 
 ---
 
-### About Me
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-```yaml
-name: Haseeb Abbas
-role: Python & AI/ML Engineer | Full Stack Developer
-location: Pakistan
+### Who Am I?
 
-currently_working_on:
-  - RAG Pipelines & Multi-Agent Systems
-  - LLMs & Semantic Search
-  - Speech-to-Speech Conversational AI
+- Python & AI/ML Engineer with expertise in building **end-to-end AI platforms**
 
-expertise:
-  - End-to-End AI Platforms
-  - Backend Engineering
-  - Cloud Deployment (AWS, Docker)
+- Currently working on **RAG Pipelines** & **Multi-Agent Systems**
 
-passion: Building AI-first solutions in Education, Healthcare & Automation
+- Specialized in **LLMs**, **Semantic Search** & **AI Automation**
+
+- Building impactful solutions in **Education**, **Healthcare** & **Automation**
+
+- Ask me about **Python, AI/ML, React, Node.js**
+
+<br clear="right"/>
+
+---
+
+### Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,angular,nodejs,express,flask,fastapi,mongodb,postgres,mysql,firebase,aws,docker,git,github,vscode&perline=10" />
+</p>
+
+---
+
+### My Tech Journey
+
+```
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║                                                                  ║
+ ║   🐍 Python        ████████████████████████████████░░  95%      ║
+ ║   ⚛️ React         ██████████████████████████░░░░░░░░  80%      ║
+ ║   🟢 Node.js       ████████████████████████░░░░░░░░░░  75%      ║
+ ║   🤖 AI/ML         ████████████████████████████████░░  95%      ║
+ ║   🐳 Docker        ██████████████████████░░░░░░░░░░░░  70%      ║
+ ║   ☁️ AWS           ██████████████████████░░░░░░░░░░░░  70%      ║
+ ║                                                                  ║
+ ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<div align="center">
+### GitHub Stats
 
-### Tech Stack
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haseebabbas2&theme=vue"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haseebabbas2&theme=vue&utcOffset=5"/>
+</p>
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-667eea?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-667eea?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-667eea?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-667eea?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebabbas2&theme=vue&hide_border=false"/>
+</p>
 
-#### Frontend
-![React](https://img.shields.io/badge/React-764ba2?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-764ba2?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-764ba2?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-764ba2?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-667eea?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-667eea?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-667eea?style=for-the-badge&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-667eea?style=for-the-badge&logo=express&logoColor=white)
-
-#### AI/ML
-![PyTorch](https://img.shields.io/badge/PyTorch-764ba2?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-764ba2?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-764ba2?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-764ba2?style=for-the-badge&logo=openai&logoColor=white)
-
-#### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-667eea?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-667eea?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-667eea?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-667eea?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haseebabbas2&theme=vue"/>
+</p>
 
 ---
 
-### GitHub Analytics
-
-<br>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haseebabbas2&theme=github_dark)
-
-<br>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haseebabbas2&theme=github_dark"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haseebabbas2&theme=github_dark&utcOffset=5"/>
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haseebabbas2&theme=github-dark-blue&hide_border=true)
-
-<br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson"/>
+</p>
 
 ---
 
-<br>
-
-*"First, solve the problem. Then, write the code."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2,3,5&height=50&section=footer"/>
+</p>
