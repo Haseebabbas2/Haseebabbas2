@@ -1,250 +1,105 @@
 <div align="center">
 
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-```
-
-```css
-/* ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ */
-```
-
-```
-██╗  ██╗ █████╗ ███████╗███████╗███████╗██████╗      █████╗ ██████╗ ██████╗  █████╗ ███████╗
-██║  ██║██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝
-███████║███████║███████╗█████╗  █████╗  ██████╔╝    ███████║██████╔╝██████╔╝███████║███████╗
-██╔══██║██╔══██║╚════██║██╔══╝  ██╔══╝  ██╔══██╗    ██╔══██║██╔══██╗██╔══██╗██╔══██║╚════██║
-██║  ██║██║  ██║███████║███████╗███████╗██████╔╝    ██║  ██║██████╔╝██████╔╝██║  ██║███████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═════╝     ╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
-
-        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-              P Y T H O N   &   A I / M L   E N G I N E E R   |   F U L L   S T A C K
-```
-
-```ansi
-[0;32m█▀▀ █▄█ █▀ ▀█▀ █▀▀ █▀▄▀█   █▀█ █▄░█ █░░ █ █▄░█ █▀▀[0m
-[0;32m▄▄█ ░█░ ▄█ ░█░ ██▄ █░▀░█   █▄█ █░▀█ █▄▄ █ █░▀█ ██▄[0m
-```
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=160&section=header&text=Haseeb%20Abbas&fontSize=40&fontColor=c0caf5&animation=fadeIn&fontAlignY=32&desc=Python%20%26%20AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=52"/>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-%40haseeb--abbas09-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-abbas09)
-[![Email](https://img.shields.io/badge/-abbashaseeb149%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbashaseeb149@gmail.com)
-[![GitHub](https://img.shields.io/badge/-%40haseebabbas2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haseebabbas2)
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-abbas09)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbashaseeb149@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haseebabbas2)
+
+</div>
+
+---
+
+<div align="center">
+
+## About Me
+
+</div>
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Haseeb Abbas"
+        self.role = "AI/ML Engineer & Full Stack Developer"
+        self.focus = ["RAG Pipelines", "Multi-Agent Systems", "LLMs", "Semantic Search"]
+        self.impact = ["Education", "Healthcare", "Automation"]
+
+    def motto(self):
+        print("First, solve the problem. Then, write the code.")
+
+me = Developer()
+me.motto()
+```
+
+<div align="center">
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haseebabbas2&theme=tokyonight)
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haseebabbas2&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haseebabbas2&theme=tokyonight"/>
 
 <br>
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  [■] TERMINAL                                                         — □ ✕  ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                                                               ┃
-┃  visitor@haseeb-portfolio:~$ neofetch                                         ┃
-┃                                                                               ┃
-┃         ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄                                                     ┃
-┃        ██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██          visitor@haseeb-portfolio                  ┃
-┃       ██                 ██         ━━━━━━━━━━━━━━━━━━━━━━━━━                  ┃
-┃      ██   ▄▄▄▄     ▄▄▄▄   ██        Status    Online & Building               ┃
-┃      ██   ████     ████   ██        Role      AI/ML Engineer                  ┃
-┃      ██                   ██        Focus     RAG | Agents | LLMs             ┃
-┃      ██       ▄▄▄▄▄       ██        Mission   Education | Health | Auto       ┃
-┃       ██     ▀▀▀▀▀▀▀     ██         Shell     zsh + tmux + neovim             ┃
-┃        ██▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄██          Theme     Tokyo Night                     ┃
-┃         ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀           Uptime    Always Coding                   ┃
-┃                                                                               ┃
-┃  visitor@haseeb-portfolio:~$ █                                                ┃
-┃                                                                               ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haseebabbas2&theme=tokyonight&hide_border=true)
 
 ---
 
-<div align="center">
+<br>
 
-```
-    ╔═╗╦═╗╔═╗╔═╗╔╗╔╔═╗╦
-    ╠═╣╠╦╝╚═╗║╣ ║║║╠═╣║
-    ╩ ╩╩╚═╚═╝╚═╝╝╚╝╩ ╩╩═╝
-    ━━━━━━━━━━━━━━━━━━━━━
-```
+*"First, solve the problem. Then, write the code."* — John Johnson
 
-</div>
+<br>
 
-```js
-// ╔══════════════════════════════════════════════════════════════════════════════╗
-// ║                         SYSTEM.CORE.INITIALIZATION                           ║
-// ╚══════════════════════════════════════════════════════════════════════════════╝
-
-const HASEEB = {
-
-    identity: {
-        name: "Haseeb Abbas",
-        class: "AI/ML Engineer | Full Stack Developer",
-        alignment: "Chaotic Builder",
-        level: "∞",
-    },
-
-    specs: {
-        weapons: ["RAG Pipelines", "Multi-Agent Systems", "LLMs", "Semantic Search"],
-        domains: ["Education", "Healthcare", "Automation"],
-        status: "READY_TO_DEPLOY",
-    },
-
-    execute: function() {
-        while (alive) {
-            eat();
-            sleep();
-            code();
-            repeat();
-        }
-    }
-};
-
-HASEEB.execute(); // 🚀 Initializing...
-```
-
----
-
-<div align="center">
-
-```
-╭──────────────────────────────────────────────────────────────────────────────╮
-│                                                                              │
-│    ██╗    ██╗███████╗ █████╗ ██████╗  ██████╗ ███╗   ██╗███████╗            │
-│    ██║    ██║██╔════╝██╔══██╗██╔══██╗██╔═══██╗████╗  ██║██╔════╝            │
-│    ██║ █╗ ██║█████╗  ███████║██████╔╝██║   ██║██╔██╗ ██║███████╗            │
-│    ██║███╗██║██╔══╝  ██╔══██║██╔═══╝ ██║   ██║██║╚██╗██║╚════██║            │
-│    ╚███╔███╔╝███████╗██║  ██║██║     ╚██████╔╝██║ ╚████║███████║            │
-│     ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚══════╝            │
-│                                                                              │
-╰──────────────────────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
-```yaml
-# ══════════════════════════════════════════════════════════════════════════════
-#                              TECH_STACK.CONFIG
-# ══════════════════════════════════════════════════════════════════════════════
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-⚔️  LANGUAGES:
-    ┃
-    ┣━▶ Python       [████████████████████░░░░]  95%   �mass destruction⟩
-    ┣━▶ JavaScript   [██████████████████░░░░░░]  85%   ⟨web domination⟩
-    ┣━▶ TypeScript   [██████████████████░░░░░░]  85%   ⟨type safety⟩
-    ┗━▶ C++          [██████████████░░░░░░░░░░]  70%   ⟨low level power⟩
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-🤖 AI_ARSENAL:
-    ┃
-    ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-    ┃  PyTorch  │  TensorFlow  │  LangChain  │  OpenAI   ┃
-    ┃━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┃
-    ┃                    HuggingFace                      ┃
-    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-🎯 FRONTEND_MATRIX:                    ⚙️  BACKEND_ENGINE:
-   ╔════════════════════╗                 ╔════════════════════╗
-   ║  ◈ React           ║                 ║  ◈ Node.js         ║
-   ║  ◈ Next.js         ║                 ║  ◈ FastAPI         ║
-   ║  ◈ Angular         ║                 ║  ◈ Flask           ║
-   ║  ◈ Tailwind CSS    ║                 ║  ◈ Express         ║
-   ╚════════════════════╝                 ╚════════════════════╝
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-🗄️  DATABASE_VAULTS:                   ☁️  CLOUD_DOMINION:
-    ┌────────────────────┐                 ┌────────────────────┐
-    │ ▸ MongoDB          │                 │ ▸ AWS              │
-    │ ▸ PostgreSQL       │                 │ ▸ Docker           │
-    │ ▸ MySQL            │                 │ ▸ Git              │
-    │ ▸ Redis            │                 │ ▸ Linux            │
-    └────────────────────┘                 └────────────────────┘
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
----
-
-<div align="center">
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                                ┃
-┃   ██████╗ ██╗████████╗    ███████╗████████╗ █████╗ ████████╗███████╗           ┃
-┃  ██╔════╝ ██║╚══██╔══╝    ██╔════╝╚══██╔══╝██╔══██╗╚══██╔══╝██╔════╝           ┃
-┃  ██║  ███╗██║   ██║       ███████╗   ██║   ███████║   ██║   ███████╗           ┃
-┃  ██║   ██║██║   ██║       ╚════██║   ██║   ██╔══██║   ██║   ╚════██║           ┃
-┃  ╚██████╔╝██║   ██║       ███████║   ██║   ██║  ██║   ██║   ███████║           ┃
-┃   ╚═════╝ ╚═╝   ╚═╝       ╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝           ┃
-┃                                                                                ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haseebabbas2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=haseebabbas2&hide_border=true&background=0d1117&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haseebabbas2&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
-
-</div>
-
----
-
-<div align="center">
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                                ┃
-┃   ░██████╗░██╗░░░██╗░█████╗░████████╗███████╗                                  ┃
-┃   ██╔═══██╗██║░░░██║██╔══██╗╚══██╔══╝██╔════╝                                  ┃
-┃   ██║██╗██║██║░░░██║██║░░██║░░░██║░░░█████╗░░                                  ┃
-┃   ╚██████╔╝██║░░░██║██║░░██║░░░██║░░░██╔══╝░░                                  ┃
-┃   ░╚═██╔═╝░╚██████╔╝╚█████╔╝░░░██║░░░███████╗                                  ┃
-┃   ░░░╚═╝░░░░╚═════╝░░╚════╝░░░░╚═╝░░░╚══════╝                                  ┃
-┃                                                                                ┃
-┃━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┃
-┃                                                                                ┃
-┃        "First, solve the problem. Then, write the code."                       ┃
-┃                                                    — John Johnson              ┃
-┃                                                                                ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-```
-                    ╔═══════════════════════════════════════════╗
-                    ║                                           ║
-                    ║   > READY TO BUILD SOMETHING EPIC?        ║
-                    ║   > LET'S CONNECT AND MAKE IT HAPPEN_     ║
-                    ║                                           ║
-                    ╚═══════════════════════════════════════════╝
-```
-
-```diff
-+ ███████████████████████████████████████████████████████████████████████████████
-+ █                                                                             █
-+ █   ⚡ OPEN FOR COLLABORATIONS  |  🚀 LET'S SHIP SOMETHING LEGENDARY  ⚡      █
-+ █                                                                             █
-+ ███████████████████████████████████████████████████████████████████████████████
-```
-
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        ╔══════════════════════════════════════════════════════════╗
-        ║  Thanks for visiting! Star a repo if you like my work.  ║
-        ╚══════════════════════════════════════════════════════════╝
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=100&section=footer"/>
 
 </div>
