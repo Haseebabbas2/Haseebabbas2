@@ -1,157 +1,140 @@
 <div align="center">
 
-<!-- Aesthetic Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=50&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Haseeb+Abbas" alt="Name" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=7D8590&center=true&vCenter=true&width=500&height=35&lines=%E2%9C%A8+Python+%26+AI%2FML+Engineer+%7C+Full+Stack+Developer+%E2%9C%A8" alt="Role" />
-
-<br>
-
-<a href="https://linkedin.com/in/haseeb-abbas09"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF"/></a>
-&nbsp;
-<a href="mailto:abbashaseeb149@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF"/></a>
-&nbsp;
-<a href="https://github.com/haseebabbas2"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF"/></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=haseebabbas2&style=flat-square&color=58A6FF&label=Visitors"/>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## ⚡ Quick Facts
-
-```js
-const haseeb = {
-    location: "Pakistan 🇵🇰",
-    currentlyBuilding: ["RAG Pipelines", "Multi-Agent AI Systems", "LLM Applications"],
-    expertise: ["AI/ML", "Full Stack", "Cloud Architecture"],
-    dailyRoutine: "☕ Coffee → 💻 Code → 🐛 Debug → 🔁 Repeat",
-    lifePhilosophy: "Ship fast, learn faster",
-    funFact: "I mass the dark mode in everything 🌙"
-};
-```
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<br>
-
-**`Languages`**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-
-**`AI / ML`**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=375BD2)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=412991)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![scikit--learn](https://img.shields.io/badge/sklearn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-
-**`Frontend`**
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Angular](https://img.shields.io/badge/Angular-0D1117?style=flat-square&logo=angular&logoColor=DD0031)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-
-**`Backend`**
-
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
-
-**`Database`**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
-
-**`DevOps & Cloud`**
-
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<br>
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0D1117&height=150&section=header&text=&fontSize=0"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haseebabbas2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=haseebabbas2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=40&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=400&height=60&lines=Haseeb+Abbas"/>
 </picture>
-&nbsp;
+
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=haseebabbas2&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=7D8590"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=haseebabbas2&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=Python+Developer+%E2%80%A2+AI%2FML+Engineer+%E2%80%A2+Full+Stack+Developer"/>
 </picture>
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=haseebabbas2&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true"/>
+<!-- Badges -->
+<a href="https://linkedin.com/in/haseeb-abbas09">
+  <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=58A6FF"/>
+</a>
+<img src="https://img.shields.io/badge/-|-%230D1117"/>
+<a href="mailto:abbashaseeb149@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-0D1117?style=flat&logo=gmail&logoColor=58A6FF"/>
+</a>
+<img src="https://img.shields.io/badge/-|-%230D1117"/>
+<a href="https://github.com/haseebabbas2">
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&logoColor=58A6FF"/>
+</a>
+<img src="https://img.shields.io/badge/-|-%230D1117"/>
+<img src="https://komarev.com/ghpvc/?username=haseebabbas2&style=flat&color=58A6FF&label=Views"/>
 
 </div>
 
 <br>
 
----
+<div align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
 <br>
 
+<!-- About Me Card Style -->
 <div align="center">
 
-## 🤝 Let's Connect
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   👨‍💻  Building RAG Pipelines & Multi-Agent AI Systems                        │
+│   🧠  Specialized in LLMs, Semantic Search & AI Automation                   │
+│   ⚡  Python • React • Node.js • AWS • Docker                                │
+│   🎯  Creating impact in Education, Healthcare & Automation                  │
+│   🌙  Fun fact: mass dark mode in everything                                  │
+│                                                                              │
+│   Daily Routine:  ☕ → 💻 → 🐛 → 🔁                                           │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <br>
 
-*Open for collaborations and interesting projects!*
+<!-- Tech Stack with Icons -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"/> Tech Stack
+
+<div align="center">
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp&theme=dark" alt="Languages"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI/ML"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css&theme=dark" alt="Frontend"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" alt="Backend"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Database"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&theme=dark" alt="Tools"/>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/haseeb-abbas09)
-&nbsp;
-[![Email](https://img.shields.io/badge/Say_Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:abbashaseeb149@gmail.com)
+</div>
 
 <br>
+
+<!-- GitHub Stats -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> GitHub Stats
+
+<div align="center">
+<br>
+
+<a href="https://github.com/haseebabbas2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haseebabbas2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=haseebabbas2&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=7D8590&dates=7D8590"/>
+</a>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebabbas2&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF22&hide_border=true&custom_title=Contribution%20Graph"/>
+
+<br>
+
+</div>
+
+<br>
+
+<!-- Connect Section -->
+<div align="center">
+
+## 🤝 Let's Build Something Together
+
+<br>
+
+*Always open for interesting projects and collaborations*
+
+<br>
+
+<a href="https://linkedin.com/in/haseeb-abbas09">
+  <img src="https://img.shields.io/badge/-Connect_with_me-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:abbashaseeb149@gmail.com">
+  <img src="https://img.shields.io/badge/-Drop_a_message-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+</a>
+
+<br><br>
 
 ---
 
 <br>
 
-*"First, solve the problem. Then, write the code."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/>
 
 </div>
