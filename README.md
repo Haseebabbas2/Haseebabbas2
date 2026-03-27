@@ -1,50 +1,159 @@
 <div align="center">
 
-# 👋 Welcome to My GitHub!
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:EC4899&height=200&section=header&text=Haseeb%20Abbas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%E2%80%A2%20AI/ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descAlignY=55"/>
 
-### 💫 About Me  
-I’m **Haseeb Abbas**, a **Python & AI/ML Engineer** with hands-on experience in architecting and deploying **end-to-end AI platforms, RAG pipelines, and multi-agent systems**. My expertise lies at the intersection of **machine learning, backend engineering, and cloud deployment**, where I design scalable, production-ready solutions.  
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=haseebabbas2&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-🧠 Specialized in **LLMs, Retrieval-Augmented Generation (RAG), semantic search, and AI-driven automation**.  
-💻 Proficient in **Python, Flask, FastAPI, React.js, Node.js, and cloud-native deployments (AWS, Docker, CI/CD)**.  
-🎙 Experienced in building **speech-to-speech conversational systems** with ASR (Whisper, Deepgram) and TTS (Coqui, OpenAI).  
-📊 Strong background in **recommendation systems, NLP, image processing, and real-time data pipelines**.  
-🌍 Passionate about creating impactful **AI-first solutions** in **education, healthcare, and automation domains**. 
+<br>
+
+<!-- Social Links -->
+<a href="https://linkedin.com/in/haseeb-abbas09">
+  <img src="https://img.shields.io/badge/-Haseeb%20Abbas-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:abbashaseeb149@gmail.com">
+  <img src="https://img.shields.io/badge/-abbashaseeb149@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- About Section with Terminal Style -->
+## > whoami
+
+```js
+const haseeb = {
+    pronouns: "he" | "him",
+    role: "Python & AI/ML Engineer",
+    location: "Building the future with AI",
+
+    skills: {
+        languages: ["Python", "JavaScript", "TypeScript", "C", "C++", "PHP"],
+        frontend: ["React", "Next.js", "React Native", "Angular", "Bootstrap"],
+        backend: ["Node.js", "Express", "Flask", "FastAPI"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+        ai_ml: ["PyTorch", "TensorFlow", "scikit-learn", "LangChain"],
+        cloud: ["AWS", "Docker", "CI/CD"]
+    },
+
+    currentFocus: "Building RAG Pipelines & Multi-Agent Systems",
+    funFact: "I debug with console.log and I'm proud of it!"
+};
+```
+
+<div align="center">
+
+<br>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,php&perline=3" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,bootstrap&perline=3" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### Backend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&perline=2" />
+</div>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### Databases
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=2" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### AI/ML
+<div align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### DevOps
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws&perline=2" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## GitHub Stats
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebabbas2&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=haseebabbas2&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397" />
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haseebabbas2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397)
+
+<br>
+
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haseebabbas2&theme=redical&hide_border=true&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF)](https://github.com/haseebabbas2)
+
+<br>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
 
 ---
 
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-abbas09)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbashaseeb149@gmail.com)  
+### *"First, solve the problem. Then, write the code."*
 
----
+<br>
 
-### 💻 Tech Stack  
-
-#### Languages  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-
-#### Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-#### Backend  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)  
-
-#### Databases & Cloud  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-a08021.svg?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-
-#### AI/ML Tools  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  
-
-#### Tools & Version Control  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
-
----
-
-### 📊 GitHub Analytics  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haseebabbas2&theme=github_dark)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haseebabbas2&layout=compact&theme=github_dark&hide_border=true)  
-
----
-
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨  
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=120&section=footer"/>
 
 </div>
