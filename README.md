@@ -1,86 +1,114 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hey there, I'm Haseeb Abbas
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/haseeb-abbas09"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abbashaseeb149@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=haseebabbas2&color=green&style=flat&label=Profile+Views"/>
-</p>
+<!-- Matrix/Cyber Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&text=HASEEB%20ABBAS&fontColor=00ff00&fontSize=60&fontAlignY=50&desc=[ PYTHON %20|%20AI/ML%20|%20FULL%20STACK ]&descSize=20&descAlignY=68&animation=fadeIn"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=22&duration=4000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Python+%26+AI%2FML+Engineer;Full+Stack+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
-</p>
+</div>
 
----
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-### Who Am I?
-
-- Python & AI/ML Engineer with expertise in building **end-to-end AI platforms**
-
-- Currently working on **RAG Pipelines** & **Multi-Agent Systems**
-
-- Specialized in **LLMs**, **Semantic Search** & **AI Automation**
-
-- Building impactful solutions in **Education**, **Healthcare** & **Automation**
-
-- Ask me about **Python, AI/ML, React, Node.js**
-
-<br clear="right"/>
-
----
-
-### Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,angular,nodejs,express,flask,fastapi,mongodb,postgres,mysql,firebase,aws,docker,git,github,vscode&perline=10" />
-</p>
-
----
-
-### My Tech Journey
-
+```console
+haseeb@github:~$ whoami
 ```
- ╔══════════════════════════════════════════════════════════════════╗
- ║                                                                  ║
- ║   🐍 Python        ████████████████████████████████░░  95%      ║
- ║   ⚛️ React         ██████████████████████████░░░░░░░░  80%      ║
- ║   🟢 Node.js       ████████████████████████░░░░░░░░░░  75%      ║
- ║   🤖 AI/ML         ████████████████████████████████░░  95%      ║
- ║   🐳 Docker        ██████████████████████░░░░░░░░░░░░  70%      ║
- ║   ☁️ AWS           ██████████████████████░░░░░░░░░░░░  70%      ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
+> **`Python & AI/ML Engineer | Full Stack Developer | Tech Enthusiast`**
+
+```console
+haseeb@github:~$ cat about.txt
 ```
 
+```js
+const haseeb = {
+    title: "Python & AI/ML Engineer",
+    code: ["Python", "JavaScript", "TypeScript", "C++"],
+    technologies: {
+        ai_ml: ["PyTorch", "TensorFlow", "LangChain", "OpenAI", "RAG"],
+        frontend: ["React", "Next.js", "Angular", "Tailwind"],
+        backend: ["Node.js", "FastAPI", "Flask", "Express"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        devOps: ["AWS", "Docker", "CI/CD", "Git"]
+    },
+    currentlyBuilding: "RAG Pipelines & Multi-Agent AI Systems",
+    funFact: "I mass while (True): code()"
+};
+```
+
+<div align="center">
+
+```console
+haseeb@github:~$ neofetch
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=haseebabbas2&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9"/>
+
+```console
+haseeb@github:~$ ls skills/
+```
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,langchain&theme=dark" /> &nbsp; **AI/ML**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular&theme=dark" /> &nbsp; **Frontend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" /> &nbsp; **Backend**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" /> &nbsp; **Database**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode&theme=dark" /> &nbsp; **DevOps**
+
+<br>
+
+```console
+haseeb@github:~$ git log --oneline -5
+```
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haseebabbas2&theme=github_dark"/>
+
+<br>
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haseebabbas2&theme=github_dark"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haseebabbas2&theme=github_dark&utcOffset=5"/>
+
+<br>
+
+```console
+haseeb@github:~$ cat streak.log
+```
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebabbas2&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00&sideNums=00ff00&sideLabels=c9d1d9&dates=555555"/>
+
+<br>
+
+```console
+haseeb@github:~$ echo $CONNECT
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-abbas09)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbashaseeb149@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haseebabbas2)
+
+<br>
+
 ---
 
-### GitHub Stats
+<br>
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haseebabbas2&theme=vue"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haseebabbas2&theme=vue&utcOffset=5"/>
-</p>
+```console
+haseeb@github:~$ fortune | cowsay
+```
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebabbas2&theme=vue&hide_border=false"/>
-</p>
+```
+ ________________________________________
+< First, solve the problem.              >
+< Then, write the code. - John Johnson   >
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haseebabbas2&theme=vue"/>
-</p>
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:161b22&section=footer"/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2,3,5&height=50&section=footer"/>
-</p>
+</div>
